@@ -1,0 +1,23 @@
+h1 {
+    color: red
+}
+li {
+    color: rgb(63, 70, 132)
+}
+
+#red {
+    color:red;
+
+}
+#blue {
+    color:blue;
+}
+#yellow {
+    color:yellow;
+}
+.box {
+    border: 3px green solid;
+    width: 75%;
+    margin: 0 auto;
+}
+
